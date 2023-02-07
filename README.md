@@ -7,4 +7,4 @@ This will be a place to put a code for capstone project. We will also add any re
 
 ##Materials
 
-+[Student project]
+[Student project]
